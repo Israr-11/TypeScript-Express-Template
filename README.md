@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/6126a2e6-9fe1-4c47-9cf4-ea75d628cd81)
-
-
-API that is built using Node js used to fetch Football related news from all the top news websites of the world
 
 ## `Follow these instructions to run the API successfully`
 
@@ -15,7 +11,7 @@ npm install
 
 npm start or npm run dev
 
-Open your favorite browser and navigate to http://localhost:8080 to experience the magic 😎!
+Open your favorite browser and navigate to http://localhost:<port> to experience the magic 😎!
 
 The server will automatically reload as you make changes, and any lint errors will be displayed in the console.
 
