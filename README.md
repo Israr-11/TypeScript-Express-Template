@@ -6,10 +6,12 @@
 Installation:
 
 npm install
+## Step 2: Create and update the .env file
 
-## Step 2: Start the backend server
+.env file is expecting database connection and name. In this template, I am using MongodB as the database.
 
-npm start or npm run dev
+## Step 3: Start the backend server
+npm run dev
 
 Open your favorite browser and navigate to http://localhost:<port> to experience the magic 😎!
 
